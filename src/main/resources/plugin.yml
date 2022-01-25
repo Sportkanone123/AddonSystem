@@ -1,0 +1,7 @@
+name: AddonSystem
+version: 1.0
+author: Sportkanone123
+main: de.sportkanone123.addonsystem.AddonSystem
+
+load: POSTWORLD
+api-version: 1.13
